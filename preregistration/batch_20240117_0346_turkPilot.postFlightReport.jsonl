@@ -1,0 +1,149 @@
+{
+  "preregistrations": {
+    "total": 28,
+    "treatmentBreakdown": {
+      "baseline": 28
+    },
+    "percentComplete": 100
+  },
+  "participants": {
+    "total": 53,
+    "completeIntroSteps": 29,
+    "enterLobby": 28,
+    "beginGame": 28,
+    "finishGame": 28,
+    "complete": 28,
+    "reportingDiscussionProblems": 1,
+    "checkingIn": 2
+  },
+  "timings": {
+    "intro": {
+      "max": 13134.823,
+      "min": 97.269,
+      "mean": 1649.2428275862069,
+      "median": 217.969
+    },
+    "countdown": {
+      "max": 13147.904,
+      "min": 0.927,
+      "mean": 5845.2469999999985,
+      "median": 29.643
+    },
+    "lobby": {
+      "max": 769.558,
+      "min": 5.693,
+      "mean": 74.73085714285715,
+      "median": 21.321
+    },
+    "game": {
+      "max": 600.284,
+      "min": 439.405,
+      "mean": 527.7762857142857,
+      "median": 533.044
+    },
+    "exit": {
+      "max": 813.258,
+      "min": 79.298,
+      "mean": 331.28146428571426,
+      "median": 295.31
+    }
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.9090909090909091,
+      "maybe": 0.09090909090909091
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.7727272727272727,
+      "overpaid": 0.09090909090909091,
+      "underpaid": 0.13636363636363635
+    },
+    "adequateTime": {
+      "adequate": 0.8181818181818182,
+      "too_little": 0.09090909090909091,
+      "too_much": 0.09090909090909091
+    },
+    "clearInstructions": {
+      "2": 0.045454545454545456,
+      "3": 0.045454545454545456,
+      "4": 0.18181818181818182,
+      "5": 0.7272727272727273
+    },
+    "videoQuality": {
+      "3": 0.13636363636363635,
+      "4": 0.18181818181818182,
+      "5": 0.6818181818181818
+    },
+    "joiningProblems": {
+      "no": 0.9090909090909091,
+      "yes": 0.09090909090909091
+    },
+    "technicalProblems": {
+      "no": 0.9090909090909091,
+      "yes": 0.09090909090909091
+    },
+    "textExpansion": [
+      "It was A very good study",
+      null,
+      null,
+      "This is very good survey.",
+      null,
+      "Nothing.",
+      "good",
+      "good",
+      "good",
+      "good",
+      "Nothing.",
+      null,
+      null,
+      "Thank You.",
+      "Thank you."
+    ],
+    "technicalDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "joiningDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
