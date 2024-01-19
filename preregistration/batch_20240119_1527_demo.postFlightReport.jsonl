@@ -1,0 +1,93 @@
+{
+  "preregistrations": {
+    "total": 4,
+    "treatmentBreakdown": {
+      "demo_4p_test_video": 4
+    },
+    "percentComplete": 75
+  },
+  "participants": {
+    "total": 4,
+    "completeIntroSteps": 4,
+    "enterLobby": 4,
+    "beginGame": 4,
+    "finishGame": 4,
+    "complete": 3,
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 89.096,
+      "min": 34.183,
+      "mean": 60.783,
+      "median": 60.88
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 106.725,
+      "min": 1.96,
+      "mean": 51.272999999999996,
+      "median": 18.476
+    },
+    "game": {
+      "max": 225.198,
+      "min": 225.198,
+      "mean": 225.198,
+      "median": 225.198
+    },
+    "exit": {
+      "max": 43.468,
+      "min": 19.739,
+      "mean": 27.791666666666668,
+      "median": 20.168
+    }
+  },
+  "QC": {
+    "participateAgain": {
+      "maybe": 0.6666666666666666,
+      "yes": 0.3333333333333333
+    },
+    "adequateCompensation": {
+      "N/A": 0.6666666666666666,
+      "fairly_paid": 0.3333333333333333
+    },
+    "adequateTime": {
+      "adequate": 0.6666666666666666,
+      "too_little": 0.3333333333333333
+    },
+    "clearInstructions": {
+      "3": 0.6666666666666666,
+      "5": 0.3333333333333333
+    },
+    "videoQuality": {
+      "3": 0.6666666666666666,
+      "4": 0.3333333333333333
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "no": 1
+    },
+    "textExpansion": [
+      null,
+      null,
+      null
+    ],
+    "technicalDetail": [
+      null,
+      null,
+      null
+    ],
+    "joiningDetail": [
+      null,
+      null,
+      null
+    ]
+  }
+}
