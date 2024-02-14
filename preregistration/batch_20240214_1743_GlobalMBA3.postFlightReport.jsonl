@@ -1,0 +1,223 @@
+{
+  "preregistrations": {
+    "total": 44,
+    "treatmentBreakdown": {
+      "baseline_MBA": 44
+    },
+    "percentComplete": 68.18181818181817
+  },
+  "participants": {
+    "total": 47,
+    "completeIntroSteps": 44,
+    "enterLobby": 44,
+    "beginGame": 47,
+    "finishGame": 47,
+    "complete": 30,
+    "ipTimezoneBreakdown": {
+      "undefined": 47
+    },
+    "ipCountryBreakdown": {
+      "undefined": 47
+    },
+    "possibleVPN": {
+      "true": 47
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 29,
+      "pt-PT": 1,
+      "en-CA": 1,
+      "en-GB": 13,
+      "ru-RU": 1,
+      "es-ES": 1,
+      "en": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Asia/Dubai": 2,
+      "America/New_York": 5,
+      "Europe/Zurich": 2,
+      "Europe/Paris": 2,
+      "America/Vancouver": 1,
+      "Asia/Calcutta": 1,
+      "America/Los_Angeles": 4,
+      "Africa/Harare": 2,
+      "Europe/London": 5,
+      "Asia/Riyadh": 4,
+      "Asia/Qatar": 2,
+      "Europe/Helsinki": 1,
+      "Africa/Blantyre": 1,
+      "Europe/Dublin": 1,
+      "Asia/Hong_Kong": 1,
+      "Asia/Baghdad": 2,
+      "Asia/Almaty": 1,
+      "America/Denver": 1,
+      "Africa/Lagos": 3,
+      "Europe/Sofia": 1,
+      "America/Chicago": 2,
+      "Africa/Nairobi": 1,
+      "Africa/Cairo": 1,
+      "Europe/Berlin": 1
+    },
+    "knownVPN": {
+      "undefined": 47
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 1020.129,
+      "min": 71.822,
+      "mean": 428.27786363636363,
+      "median": 375.121
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "game": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "exit": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 15,
+    "mean": 2.2127659574468086,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.48,
+      "maybe": 0.44,
+      "undefined": 0.04,
+      "no": 0.04
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.12,
+      "N/A": 0.76,
+      "undefined": 0.08,
+      "underpaid": 0.04
+    },
+    "adequateTime": {
+      "adequate": 0.84,
+      "too_much": 0.04,
+      "too_little": 0.04,
+      "undefined": 0.08
+    },
+    "clearInstructions": {
+      "3": 0.2,
+      "4": 0.6,
+      "5": 0.12,
+      "undefined": 0.08
+    },
+    "videoQuality": {
+      "3": 0.08,
+      "4": 0.44,
+      "5": 0.44,
+      "undefined": 0.04
+    },
+    "joiningProblems": {
+      "no": 0.96,
+      "undefined": 0.04
+    },
+    "technicalProblems": {
+      "no": 0.96,
+      "undefined": 0.04
+    },
+    "textExpansion": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Enjoyable study",
+      "Good engaging exercise",
+      null,
+      null,
+      null,
+      "I think I have answered 2 question wrongly by mistake and I noticed later. i t's about the 2 other persons being competent and my true answer is neutral ",
+      null,
+      null,
+      null,
+      null,
+      "There was one more person in the group at the beginning, but he had an issue with video and he tried to fix it. After all he ended up in leaving the video call."
+    ],
+    "technicalDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "joiningDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
