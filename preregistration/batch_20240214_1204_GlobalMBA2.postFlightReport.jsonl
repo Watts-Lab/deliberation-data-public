@@ -1,0 +1,174 @@
+{
+  "preregistrations": {
+    "total": 24,
+    "treatmentBreakdown": {
+      "baseline_MBA": 24
+    },
+    "percentComplete": 62.5
+  },
+  "participants": {
+    "total": 26,
+    "completeIntroSteps": 24,
+    "enterLobby": 24,
+    "beginGame": 26,
+    "finishGame": 26,
+    "complete": 15,
+    "ipTimezoneBreakdown": {
+      "undefined": 26
+    },
+    "ipCountryBreakdown": {
+      "undefined": 26
+    },
+    "possibleVPN": {
+      "true": 26
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 12,
+      "zh-TW": 1,
+      "it-IT": 1,
+      "en-GB": 10,
+      "pt-BR": 1,
+      "ja": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/Berlin": 2,
+      "Asia/Singapore": 1,
+      "Asia/Hong_Kong": 3,
+      "America/Chicago": 2,
+      "Europe/London": 9,
+      "Europe/Zurich": 2,
+      "America/Sao_Paulo": 1,
+      "Africa/Lagos": 1,
+      "Asia/Tokyo": 1,
+      "America/New_York": 1,
+      "Asia/Calcutta": 1,
+      "Asia/Riyadh": 1,
+      "Asia/Dubai": 1
+    },
+    "knownVPN": {
+      "undefined": 26
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 846.227,
+      "min": 139.161,
+      "mean": 388.4644583333334,
+      "median": 365.153
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "game": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "exit": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 5,
+    "mean": 1.7307692307692308,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.5384615384615384,
+      "maybe": 0.38461538461538464,
+      "undefined": 0.07692307692307693
+    },
+    "adequateCompensation": {
+      "N/A": 0.5384615384615384,
+      "fairly_paid": 0.3076923076923077,
+      "underpaid": 0.07692307692307693,
+      "undefined": 0.07692307692307693
+    },
+    "adequateTime": {
+      "adequate": 0.8461538461538461,
+      "too_much": 0.07692307692307693,
+      "undefined": 0.07692307692307693
+    },
+    "clearInstructions": {
+      "3": 0.07692307692307693,
+      "4": 0.7692307692307693,
+      "5": 0.07692307692307693,
+      "undefined": 0.07692307692307693
+    },
+    "videoQuality": {
+      "4": 0.46153846153846156,
+      "5": 0.46153846153846156,
+      "undefined": 0.07692307692307693
+    },
+    "joiningProblems": {
+      "no": 0.9230769230769231,
+      "undefined": 0.07692307692307693
+    },
+    "technicalProblems": {
+      "no": 0.8461538461538461,
+      "yes": 0.07692307692307693,
+      "undefined": 0.07692307692307693
+    },
+    "textExpansion": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "N/a",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "technicalDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "I had to refresh the introductory pages a few times (The consent part most especially)",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "joiningDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
