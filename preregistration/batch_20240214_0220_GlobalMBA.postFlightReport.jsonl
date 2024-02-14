@@ -1,0 +1,222 @@
+{
+  "preregistrations": {
+    "total": 36,
+    "treatmentBreakdown": {
+      "baseline_MBA": 36
+    },
+    "percentComplete": 88.88888888888889
+  },
+  "participants": {
+    "total": 38,
+    "completeIntroSteps": 36,
+    "enterLobby": 36,
+    "beginGame": 38,
+    "finishGame": 38,
+    "complete": 32,
+    "ipTimezoneBreakdown": {
+      "undefined": 37,
+      "Asia/Tokyo": 1
+    },
+    "ipCountryBreakdown": {
+      "undefined": 37,
+      "JP": 1
+    },
+    "possibleVPN": {
+      "true": 38
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 16,
+      "de-DE": 1,
+      "en-GB": 16,
+      "en-SG": 1,
+      "zh-TW": 1,
+      "en-CN": 1,
+      "pl-PL": 1,
+      "en": 1
+    },
+    "browserTimezoneBreakdown": {
+      "Europe/Dublin": 1,
+      "Europe/London": 13,
+      "Europe/Zurich": 2,
+      "Asia/Singapore": 3,
+      "Europe/Sarajevo": 1,
+      "Asia/Calcutta": 2,
+      "America/Toronto": 1,
+      "Africa/Lagos": 1,
+      "Asia/Riyadh": 1,
+      "Europe/Oslo": 1,
+      "America/Halifax": 1,
+      "Asia/Dubai": 1,
+      "Asia/Hong_Kong": 2,
+      "Europe/Madrid": 1,
+      "Asia/Shanghai": 1,
+      "Europe/Paris": 2,
+      "Europe/Warsaw": 1,
+      "America/New_York": 2,
+      "Asia/Tokyo": 1
+    },
+    "knownVPN": {
+      "undefined": 37,
+      "false": 1
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 1921.466,
+      "min": 165.138,
+      "mean": 405.6745833333333,
+      "median": 271.372
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "game": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "exit": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 5,
+    "mean": 1.394736842105263,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.6538461538461539,
+      "no": 0.07692307692307693,
+      "maybe": 0.2692307692307692
+    },
+    "adequateCompensation": {
+      "fairly_paid": 0.23076923076923078,
+      "underpaid": 0.11538461538461539,
+      "N/A": 0.6538461538461539
+    },
+    "adequateTime": {
+      "adequate": 0.8076923076923077,
+      "too_little": 0.15384615384615385,
+      "too_much": 0.038461538461538464
+    },
+    "clearInstructions": {
+      "2": 0.038461538461538464,
+      "3": 0.19230769230769232,
+      "4": 0.38461538461538464,
+      "5": 0.38461538461538464
+    },
+    "videoQuality": {
+      "1": 0.038461538461538464,
+      "4": 0.34615384615384615,
+      "5": 0.6153846153846154
+    },
+    "joiningProblems": {
+      "no": 0.8846153846153846,
+      "yes": 0.11538461538461539
+    },
+    "technicalProblems": {
+      "no": 0.8846153846153846,
+      "yes": 0.11538461538461539
+    },
+    "textExpansion": [
+      null,
+      null,
+      "N/A",
+      null,
+      "The job description is too generic when the recruitment is for an IT director",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Good tool, I enjoyed this exercise , thank you",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "technicalDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "did not work on firefox on windows but worked on chrome",
+      null,
+      "One member of the group couldn't hear anything and the other had technical glitches preventing us from hearing her."
+    ],
+    "joiningDetail": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "At the beginning, link were not working on Safari, I had to switch to Chrome and it worked well",
+      null,
+      "It does not work in Macbooks",
+      null,
+      null,
+      null
+    ]
+  }
+}
